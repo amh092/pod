@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: red;
+}
+
+.line {
+  border: 1px oslid;
+}
+
+/*# sourceMappingURL=style.css.map */
